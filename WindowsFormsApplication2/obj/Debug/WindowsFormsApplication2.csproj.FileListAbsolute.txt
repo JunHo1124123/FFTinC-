@@ -1,0 +1,14 @@
+c:\users\jhheo\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\JHHeo\Desktop\main\코드 작성\1. FFT 코드 작성\FFTinC#\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\JHHeo\Desktop\main\코드 작성\1. FFT 코드 작성\FFTinC#\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\JHHeo\Desktop\main\코드 작성\1. FFT 코드 작성\FFTinC#\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\JHHeo\Desktop\main\코드 작성\1. FFT 코드 작성\FFTinC#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\JHHeo\Desktop\main\코드 작성\1. FFT 코드 작성\FFTinC#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\JHHeo\Desktop\main\코드 작성\1. FFT 코드 작성\FFTinC#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\JHHeo\Desktop\main\코드 작성\1. FFT 코드 작성\FFTinC#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\JHHeo\Desktop\main\코드 작성\1. FFT 코드 작성\FFTinC#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\JHHeo\Desktop\main\코드 작성\1. FFT 코드 작성\FFTinC#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\JHHeo\Desktop\main\코드 작성\1. FFT 코드 작성\FFTinC#\WindowsFormsApplication2\bin\Debug\NationalInstruments.UI.Styles3D.dll
+C:\Users\JHHeo\Desktop\main\코드 작성\1. FFT 코드 작성\FFTinC#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe.licenses
+C:\Users\JHHeo\Desktop\main\코드 작성\1. FFT 코드 작성\FFTinC#\WindowsFormsApplication2\bin\Debug\FFTClass.dll
+C:\Users\JHHeo\Desktop\main\코드 작성\1. FFT 코드 작성\FFTinC#\WindowsFormsApplication2\bin\Debug\FFTClass.pdb
